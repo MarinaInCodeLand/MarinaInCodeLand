@@ -11,8 +11,6 @@ Hi! I'm currently learning Frontend Development (HTML, CSS, JavaScript, React) a
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakov.marina@gmail.com)
 
 
-
-
 </div>
 
 <!-- Tech Stack -->

@@ -1,6 +1,5 @@
 <!-- Stats -->
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MarinaInCodeLand&theme=modern-lilac2" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=marinaincodeland&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marinaincodeland&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaincodeland&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>

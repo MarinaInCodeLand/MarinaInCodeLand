@@ -29,7 +29,7 @@
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake.svg)
+  ![snake gif](https://github.com/MarinaInCodeLand/MarinaInCodeLand/blob/output/github-snake.svg)
 </div>
 
 
@@ -37,7 +37,7 @@
 <!-- Visit Counter -->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=marinaincodeland&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
 
 

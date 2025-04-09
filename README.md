@@ -42,5 +42,5 @@
 
 
 
-![snake gif](https://github.com/MarinaInCodeLand/MarinaInCodeLand/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/MarinaInCodeLand/MarinaInCodeLand/blob/output/ocean.gif)
 

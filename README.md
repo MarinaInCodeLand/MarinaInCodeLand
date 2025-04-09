@@ -20,7 +20,7 @@
 <div align="center">
 
 ## 🌐 Connect with Me 🍬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishsinghslg) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinajakovljevi%C4%87/) 
 
 </div>
 

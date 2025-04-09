@@ -2,8 +2,10 @@
 Hi! I'm currently learning Frontend Development (HTML, CSS, JavaScript, React) and Software Test Automation (Python, Selenium, Cypress).<br>I'm passionate about building clean, user-friendly interfaces and ensuring software quality through automated testing.<br><br>💡 I enjoy combining creative design with logical problem-solving.<br>🎯 My goal is to become a versatile developer and QA engineer.<br>📚 Always learning and improving!
 
 <div align="center">
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qageniushub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marinajakovljevi%C4%87/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@qageniushub) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakov.marina@gmail.com) 
+
 </div>
 
 # 💻 Tech Stack:
